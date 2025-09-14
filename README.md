@@ -28,7 +28,7 @@ To manually install BEAR, please follow the steps below:
 
     Clone the BEAR repository to your local machine:
     ```
-    git clone https://github.com/chz056/BEAR.git
+    git clone [https://github.com/daxiaxiong88/BEAR2.git]
     ```
 
 2. **Navigate to the Cloned Directory**
