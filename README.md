@@ -60,7 +60,7 @@ To manually install BEAR, please follow the steps below:
 
 And that's it! You've successfully installed and set up BEAR on your local machine.
 
-Please report any issues with installation or bugs in the code in the [Issues section](https://github.com/chz056/BEAR/issues).
+Please report any issues with installation or bugs in the code in the [Issues section](https://github.com/daxiaxiong88/BEAR2).
 
 ## Functionalities
 The main functionalities of **BEAR** are the following :
